@@ -1,3 +1,8 @@
+Fork of [OpenAnnePro/AnnePro2-Tools](https://github.com/OpenAnnePro/AnnePro2-Tools)
+
+Changes:
+- Add `flake.nix`
+
 # Anne Pro 2 Tools
 
 This is an alternative firmware update tool for the Anne Pro 2.
@@ -19,4 +24,4 @@ To flash file called a.bin you can invoke
 ```
 
 By default, the flasher will look for 04d9:8008 (Default Anne Pro 2 IAP)
-and flash binary starting at 0x4000. 
+and flash binary starting at 0x4000.
